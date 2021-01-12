@@ -1,12 +1,12 @@
-package tobe;
+package strategyPattern.tobe;
 
-import tobe.abstracts.Robot;
-import tobe.robots.Atom;
-import tobe.robots.TaekwonV;
-import tobe.strategies.FlyingStrategy;
-import tobe.strategies.MissleStrategy;
-import tobe.strategies.PunchStrategy;
-import tobe.strategies.WalkingStrategy;
+import strategyPattern.tobe.abstracts.Robot;
+import strategyPattern.tobe.robots.Atom;
+import strategyPattern.tobe.robots.TaekwonV;
+import strategyPattern.tobe.strategies.FlyingStrategy;
+import strategyPattern.tobe.strategies.MissleStrategy;
+import strategyPattern.tobe.strategies.PunchStrategy;
+import strategyPattern.tobe.strategies.WalkingStrategy;
 
 public class Client {
     public static void main(String[] args) {

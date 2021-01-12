@@ -1,4 +1,4 @@
-package asis.abstracts;
+package strategyPattern.asis.abstracts;
 
 public abstract class Robot {
 

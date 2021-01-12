@@ -1,7 +1,7 @@
-package tobe.abstracts;
+package strategyPattern.tobe.abstracts;
 
-import tobe.interfaces.AttackStrategy;
-import tobe.interfaces.MoveStrategy;
+import strategyPattern.tobe.interfaces.AttackStrategy;
+import strategyPattern.tobe.interfaces.MoveStrategy;
 
 public abstract class Robot {
     private String name;

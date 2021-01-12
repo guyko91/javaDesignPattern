@@ -1,6 +1,6 @@
-package asis.robots;
+package strategyPattern.asis.robots;
 
-import asis.abstracts.Robot;
+import strategyPattern.asis.abstracts.Robot;
 
 public class Atom extends Robot {
 

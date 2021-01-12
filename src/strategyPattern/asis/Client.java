@@ -1,8 +1,7 @@
-package asis;
+package strategyPattern.asis;
 
-import asis.abstracts.Robot;
-import asis.robots.Atom;
-import asis.robots.TaekwonV;
+import strategyPattern.asis.robots.Atom;
+import strategyPattern.asis.robots.TaekwonV;
 
 public class Client {
     public static void main(String[] args) {

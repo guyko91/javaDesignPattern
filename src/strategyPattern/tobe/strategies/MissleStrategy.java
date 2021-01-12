@@ -1,6 +1,6 @@
-package tobe.strategies;
+package strategyPattern.tobe.strategies;
 
-import tobe.interfaces.AttackStrategy;
+import strategyPattern.tobe.interfaces.AttackStrategy;
 
 public class MissleStrategy implements AttackStrategy {
     @Override

@@ -1,6 +1,6 @@
-package tobe.strategies;
+package strategyPattern.tobe.strategies;
 
-import tobe.interfaces.MoveStrategy;
+import strategyPattern.tobe.interfaces.MoveStrategy;
 
 public class WalkingStrategy implements MoveStrategy {
     @Override

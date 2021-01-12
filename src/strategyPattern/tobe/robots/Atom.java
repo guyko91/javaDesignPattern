@@ -1,6 +1,6 @@
-package tobe.robots;
+package strategyPattern.tobe.robots;
 
-import tobe.abstracts.Robot;
+import strategyPattern.tobe.abstracts.Robot;
 
 public class Atom extends Robot {
     public Atom(String name) {
