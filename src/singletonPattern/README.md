@@ -36,3 +36,8 @@
 * Thread-Safety와 Serialization이 보장된다.
 * Reflection을 통한 공격에도 안전하다.
 * Enum을 사용하여 Singleton을 구현하는 것이 가장 좋은 방법이다.
+
+### 추가로 알아볼만 한 내용
+* volatile
+* memory consistency
+* 직렬화와 역직렬화
